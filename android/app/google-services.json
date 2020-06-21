@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "336226113332",
+    "firebase_url": "https://macelleria-testa.firebaseio.com",
+    "project_id": "macelleria-testa",
+    "storage_bucket": "macelleria-testa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336226113332:android:f73c8ec3482c483ff07761",
+        "android_client_info": {
+          "package_name": "com.butchertesta1916"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336226113332-eq6m1msd6cr4htk1ftt43mk0s0m45cg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRVnjnOh9Cg9_2WdtKBWAaJdM4vWVmT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336226113332-eq6m1msd6cr4htk1ftt43mk0s0m45cg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336226113332:android:94bc0a37b0976716f07761",
+        "android_client_info": {
+          "package_name": "it.macelleriatestatorino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336226113332-eq6m1msd6cr4htk1ftt43mk0s0m45cg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRVnjnOh9Cg9_2WdtKBWAaJdM4vWVmT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336226113332-eq6m1msd6cr4htk1ftt43mk0s0m45cg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
